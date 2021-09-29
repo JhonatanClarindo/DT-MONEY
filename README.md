@@ -22,7 +22,7 @@
 git clone https://github.com/JhonatanClarindo/DT-MONEY.git
 # ou use a opção de download.
 # Entre na pasta web com 
-cd dtmoney
+cd DT-MONEY
 # Instale as dependências
 yarn install
 # Rode a aplicação
