@@ -15,9 +15,11 @@
 
 <br>
 
+### Instruções para instalação
+
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/JhonatanClarindo/dt-money.git
+git clone https://github.com/JhonatanClarindo/DT-MONEY.git
 # ou use a opção de download.
 # Entre na pasta web com 
 cd dtmoney
