@@ -1,4 +1,4 @@
-# DT-MONEY 
+# DTMONEY 
 
 ![exemple](dtmoney.png)
 
@@ -19,10 +19,10 @@
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/JhonatanClarindo/DT-MONEY.git
+git clone https://github.com/JhonatanClarindo/DTMONEY.git
 # ou use a opção de download.
 # Entre na pasta web com 
-cd DT-MONEY
+cd DTMONEY
 # Instale as dependências
 yarn install
 # Rode a aplicação
